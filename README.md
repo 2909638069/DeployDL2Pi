@@ -4,11 +4,16 @@ I try to do some object detection inference on pi 3b
 
 ## deploy deep learning frameworks to pi
 cpu of pi is arm, which is different from intel.
+
 I try some frameworks. Some work, and some don't.
+
 As follows.
 
+
 caffe, which is easy, by 
+
 $ sudo apt-get install caffe-cpu
+
 
 caffe2, I tried to compile and install, but I failed.
 
